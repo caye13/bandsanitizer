@@ -10,14 +10,15 @@ img {
   max-height: 100%;
 
 }
-li {
-  margin-bottom: 8px;
-}
+
 ul {
   background-color: #F7F9FC;
   margin-top: 25px;
   padding: 30px 55px;
   border-radius: 8px;
+}
+li {
+  margin-bottom: 8px;
 }
 header {
   background-color: #F0F8FF;
@@ -26,4 +27,12 @@ header {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
+}
+div {
+  .first-section {
+  background-color: white;
+}
+}
+.section {
+  padding: 60px 0 40px;
 }
