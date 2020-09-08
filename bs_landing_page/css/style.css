@@ -1,5 +1,21 @@
+h1 {
+  color: black;
+  font-size: 39px;
+}
+h2 {
+  font-size: 26px;
+}
 img {
   max-width: 100%;
   max-height: 100%;
 
+}
+li {
+  margin-bottom: 8px;
+}
+ul {
+  background-color: #F7F9FC;
+  margin-top: 25px;
+  padding: 30px 55px;
+  border-radius: 8px;
 }
