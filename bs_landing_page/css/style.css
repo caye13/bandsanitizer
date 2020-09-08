@@ -19,3 +19,11 @@ ul {
   padding: 30px 55px;
   border-radius: 8px;
 }
+header {
+  background-color: #F0F8FF;
+  padding: 200px 0;
+  background-image: url("..img/bandsani.jpeg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
