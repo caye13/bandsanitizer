@@ -34,25 +34,24 @@ body {
 .section {
   padding: 60px 0 40px;
 }
+.first-section {
+background-color: white;
+
+}
+
+.first-section ul {
+  background-color: #F7F9FC;
+  border-radius: 8px;
+  margin-top: 25px;
+  padding: 30px 55px;
+
+}
+
+.first-section li {
+    margin-bottom: 8px;
+}
 
 div {
-
-  .first-section {
-  background-color: white;
-  
-  }
-
-  .first-section ul {
-    background-color: #F7F9FC;
-    border-radius: 8px;
-    margin-top: 25px;
-    padding: 30px 55px;
-
-  }
-
-  .first-section li {
-      margin-bottom: 8px;
-  }
 
 
 }
