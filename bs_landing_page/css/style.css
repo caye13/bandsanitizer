@@ -36,8 +36,11 @@ body {
 }
 
 div {
+
   .first-section {
   background-color: white;
+  
+  }
 
   .first-section ul {
     background-color: #F7F9FC;
@@ -45,11 +48,10 @@ div {
     margin-top: 25px;
     padding: 30px 55px;
 
-    .first-section li {
-        margin-bottom: 8px;
-    }
   }
 
+  .first-section li {
+      margin-bottom: 8px;
   }
 
 
