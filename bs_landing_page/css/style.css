@@ -31,9 +31,7 @@ header {
 body {
   color: #4a4a4a;
 }
-.section {
-  padding: 60px 0 40px;
-}
+
 .first-section {
 background-color: white;
 
@@ -52,6 +50,8 @@ background-color: white;
 }
 
 div {
-
+  .section {
+    padding: 60px 0 40px;
+  }
 
 }
