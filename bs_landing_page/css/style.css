@@ -31,6 +31,13 @@ header {
 body {
   color: #4a4a4a;
 }
+div {
+
+}
+
+.section {
+  padding: 60px 0 40px;
+}
 
 .first-section {
 background-color: white;
@@ -47,11 +54,5 @@ background-color: white;
 
 .first-section li {
     margin-bottom: 8px;
-}
-
-div {
-  .section {
-    padding: 60px 0 40px;
-  }
-
+    
 }
