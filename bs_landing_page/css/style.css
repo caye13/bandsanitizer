@@ -31,22 +31,26 @@ header {
 body {
   color: #4a4a4a;
 }
-div {
-  .section {
-    padding: 60px 0 40px;
-  }
+.section {
+  padding: 60px 0 40px;
+}
 
+div {
   .first-section {
   background-color: white;
-  }
+
   .first-section ul {
     background-color: #F7F9FC;
     border-radius: 8px;
     margin-top: 25px;
     padding: 30px 55px;
+
+    .first-section li {
+        margin-bottom: 8px;
+    }
   }
-  .first-section li {
-      margin-bottom: 8px;
+
   }
+
 
 }
