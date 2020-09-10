@@ -22,11 +22,11 @@ li {
 } */
 header {
   background-color: #F0F8FF;
-  padding: 200px 0;
-  /* background-image: url("img/bandsani.jpeg");
+  padding: 312px 0;
+  background-image: url("../img/bandsani.jpeg");
   background-size: cover;
   background-position: center center;
-  background-repeat: no-repeat; */
+  background-repeat: no-repeat;
 }
 body {
   color: #4a4a4a;
