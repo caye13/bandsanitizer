@@ -115,3 +115,20 @@ third-section {
     margin-top: 0;
   }
 }
+
+.fourth-section {
+  background-color: #F0F8FF;
+  background-image: url("../img/bandsani.jpeg");
+  background-repeat: repeat;
+  background-size: 192px 192px;
+}
+footer {
+  background-color: white;
+  padding: 35px 0;
+}
+
+.footer-logo {
+  height: 22px;
+  margin-bottom: 3px;
+  width: 22px;
+}
