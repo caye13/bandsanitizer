@@ -1,5 +1,5 @@
 h1 {
-  color: black;
+  color: #000000;
   font-size: 39px;
 }
 h2 {
@@ -14,11 +14,13 @@ img {
 
 header {
   background-color: #F0F8FF;
-  padding: 260px 0;
+  /* padding: 260px 0; */
   background-image: url("../img/bandsani.jpeg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
+  padding: 140px 0 100px;
+
 }
 body {
   color: #4a4a4a;
@@ -47,4 +49,46 @@ background-color: white;
 .first-section li {
     margin-bottom: 8px;
 
+}
+
+.first-section img {
+  margin-bottom: 35px;
+}
+
+@media (min-width: 768px) {
+  .first-section img {
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 992px) {
+  .first-section img {
+    margin-bottom: 0;
+  }
+}
+
+@media (min-width: 576px) {
+  .section {
+  padding: 100px 0;
+}
+  h1 {
+    font-size: 48px;
+  }
+  header {
+  padding: 200px 0;
+}
+}
+
+.second-section {
+  background-color: #FBFBFB;
+}
+
+.second-section p {
+  color: #9DA2A6;
+}
+
+.second-section img {
+  height: 75px;
+  margin: 25px 0 10px;
+  width: 75px;
 }
