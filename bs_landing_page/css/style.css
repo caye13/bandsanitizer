@@ -39,16 +39,13 @@ background-color: white;
 
 }
 
-.first-section ul {
+.first-section h3 {
+  font-size: 16px;
   background-color: #F7F9FC;
   border-radius: 8px;
   margin-top: 25px;
   padding: 30px 55px;
-
-}
-
-.first-section li {
-    margin-bottom: 8px;
+  margin-bottom: 8px;
 
 }
 
