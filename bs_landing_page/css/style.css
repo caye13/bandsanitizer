@@ -11,18 +11,10 @@ img {
 
 }
 
-/* ul {
-  background-color: #F7F9FC;
-  margin-top: 25px;
-  padding: 30px 55px;
-  border-radius: 8px;
-}
-li {
-  margin-bottom: 8px;
-} */
+
 header {
   background-color: #F0F8FF;
-  padding: 312px 0;
+  padding: 260px 0;
   background-image: url("../img/bandsani.jpeg");
   background-size: cover;
   background-position: center center;
