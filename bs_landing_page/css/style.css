@@ -40,7 +40,11 @@ div {
 }
 
 .streamNow-section img {
-  margin: 26px 0 10px;
+  margin: 21px 0 10px;
+  margin-left: 150px;
+  position: right;
+  height: 65px;
+  width: 65px;
 }
 
 .first-section {
