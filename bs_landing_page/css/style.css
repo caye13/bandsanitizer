@@ -36,6 +36,12 @@ div {
 
 .streamNow-section{
   background-color: #F7F9FC;
+  padding: 30px 0 30px;
+}
+
+.streamNow-section img {
+  margin-top: 39px;
+  margin-bottom: 26px;
 }
 
 .first-section {
@@ -112,6 +118,9 @@ third-section {
 }
 
 @media (min-width: 768px) {
+  .streamNow-section img {
+    margin-top: 0;
+  }
   .third-section img {
     margin-top: 0;
   }
