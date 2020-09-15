@@ -10,9 +10,7 @@ img {
   max-height: 100%;
 
 }
-button {
-  color: #cde3f8;
-}
+
 
 
 header {
@@ -31,6 +29,13 @@ body {
 }
 div {
 
+}
+.btn-primary, .btn-primary:visited {
+  background-color: #cde3f8;
+  border-color: #b7d7f4;
+}
+.btn-primary:hover, .btn-primary:active {
+  background-color: #a1caf1;
 }
 
 .section {
@@ -139,7 +144,7 @@ third-section {
   background-size: 192px 192px;
 }
 footer {
-  background-color: white;
+  background-color: #cde3f8;
   padding: 35px 0;
 }
 
